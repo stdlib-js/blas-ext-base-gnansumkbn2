@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-gnansumkbn2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Calculate the sum of strided array elements, ignoring NaN values and using a second-order iterative Kahan–Babuška algorithm.",
   "license": "Apache-2.0",
   "author": {
