@@ -250,8 +250,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/blas-ext-base-gnansumkbn2.svg
 [npm-url]: https://npmjs.org/package/@stdlib/blas-ext-base-gnansumkbn2
 
-[test-image]: https://github.com/stdlib-js/blas-ext-base-gnansumkbn2/actions/workflows/test.yml/badge.svg?branch=v0.0.7
-[test-url]: https://github.com/stdlib-js/blas-ext-base-gnansumkbn2/actions/workflows/test.yml?query=branch:v0.0.7
+[test-image]: https://github.com/stdlib-js/blas-ext-base-gnansumkbn2/actions/workflows/test.yml/badge.svg?branch=v0.0.8
+[test-url]: https://github.com/stdlib-js/blas-ext-base-gnansumkbn2/actions/workflows/test.yml?query=branch:v0.0.8
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-gnansumkbn2/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-gnansumkbn2?branch=main
