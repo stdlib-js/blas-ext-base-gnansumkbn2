@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@deno/mod.js';
+import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@deno/mod.js';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.2.2-deno/mod.js';
 ```
 
 #### gnansumkbn2( N, x, stride )
@@ -157,7 +157,7 @@ var v = gnansumkbn2.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@deno/mod.js';
+import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.2.2-deno/mod.js';
 
 var x;
 var i;
