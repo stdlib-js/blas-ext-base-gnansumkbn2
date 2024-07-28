@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@esm/index.mjs';
+import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@esm/index.mjs';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.2.2-esm/index.mjs';
 ```
 
 #### gnansumkbn2( N, x, stride )
@@ -162,7 +162,7 @@ var v = gnansumkbn2.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@esm/index.mjs';
+import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.2.2-esm/index.mjs';
 
 var x;
 var i;
