@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-31)
+## Unreleased (2025-04-25)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`71be45f`](https://github.com/stdlib-js/stdlib/commit/71be45f47dd783ce955d982425c7dbae5f6c09a5) - **test:** add zeros tests _(by Athan Reines)_
 -   [`6f8898d`](https://github.com/stdlib-js/stdlib/commit/6f8898dbad41926bd7d03efc778e3a9a23742220) - **feat:** add accessor arrays support to `blas/ext/base/gnansumkbn2` [(#5034)](https://github.com/stdlib-js/stdlib/pull/5034) _(by Muhammad Haris)_
 -   [`2cd9a7e`](https://github.com/stdlib-js/stdlib/commit/2cd9a7e46e14388370c455983f91d6ef949bf3a4) - **refactor:** update `blas/ext/base/gnansumkbn2` to follow current project conventions [(#4634)](https://github.com/stdlib-js/stdlib/pull/4634) _(by Muhammad Haris)_
 
@@ -35,8 +36,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Muhammad Haris
 
 </section>
