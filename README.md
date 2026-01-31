@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@deno/mod.js';
+import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.3.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@deno/mod.js';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.3.0-deno/mod.js';
 ```
 
 #### gnansumkbn2( N, x, strideX )
@@ -147,7 +147,7 @@ var v = gnansumkbn2.ndarray( 5, x, 2, 1 );
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
-import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@deno/mod.js';
+import gnansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansumkbn2@v0.3.0-deno/mod.js';
 
 function rand() {
     if ( bernoulli( 0.8 ) > 0 ) {
